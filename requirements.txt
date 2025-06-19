@@ -10,7 +10,6 @@ langchain
 langchain_community
 dotenv
 streamlit
-psycopg2
 flask
 PyPDF2
 faiss-cpu
