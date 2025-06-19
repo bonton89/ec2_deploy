@@ -1,0 +1,17 @@
+boto3
+awscli
+PyPDF2
+boto3
+fitz
+openpyxl
+pandas
+langchain_aws
+langchain
+langchain_community
+dotenv
+streamlit
+psycopg2
+flask
+PyPDF2
+faiss-cpu
+PyPDF
